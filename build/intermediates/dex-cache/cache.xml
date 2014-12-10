@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\1\AndroidStudioProjects\androidhive\SmartClock\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-fdab5232cc2987dc520b1968d641bceb24b70274.jar"
+        jar="C:\Users\1\AndroidStudioProjects\androidhive\SmartClock\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="C:\Users\1\AndroidStudioProjects\androidhive\SmartClock\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-11ed5df63aa19990a1d26d87a4d3d421b08cf264.jar"
+        jar="C:\Program Files (x86)\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="C:\Users\1\AndroidStudioProjects\androidhive\SmartClock\app\build\intermediates\pre-dexed\debug\classes-c87496a765e753aaae8214d4f8d59b9d008a9463.jar"
+        jar="C:\Users\1\AndroidStudioProjects\androidhive\SmartClock\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+
+</pre-dex-items>
